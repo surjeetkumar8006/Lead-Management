@@ -49,7 +49,7 @@ Follow these steps to run InsurancePro CRM locally:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/prolinkinfo/RealEstateCRM.git](https://github.com/surjeetkumar8006/Lead-Managemen)
+git clone(https://github.com/surjeetkumar8006/Lead-Managemen)
 cd RealEstateCRM
 
 # Install dependencies for backend & frontend
